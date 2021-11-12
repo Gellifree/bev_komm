@@ -7,5 +7,6 @@ Bevezetés a kommunikációelméletbe szakirodalom elemzés
  - Szabó Bence
 
 ### Kapott feladat:
- Horányi Özséb: Kommunikáció. In: Horányi Özséb (szerk.): Kommunikáció I-II. Válogatott tanulmányok. Budapest, Közgazdasági és Jogi Könyvkiadó, 1977. p. 5.
+
+Eric Berne: Emberi játszmák
  
