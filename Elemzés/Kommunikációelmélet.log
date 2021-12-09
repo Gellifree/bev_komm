@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.9.22)  8 DEC 2021 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.9.22)  9 DEC 2021 13:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -332,6 +332,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+<svgs/parhuzamos_tranzakciok.png, id=28, 749.80125pt x 399.74344pt>
+File: svgs/parhuzamos_tranzakciok.png Graphic file (type png)
+<use svgs/parhuzamos_tranzakciok.png>
+Package pdftex.def Info: svgs/parhuzamos_tranzakciok.png  used on input line 11
+6.
+(pdftex.def)             Requested size: 426.79134pt x 227.53894pt.
+<svgs/keresztezett_tranzakciok.png, id=30, 749.80125pt x 397.485pt>
+File: svgs/keresztezett_tranzakciok.png Graphic file (type png)
+<use svgs/keresztezett_tranzakciok.png>
+Package pdftex.def Info: svgs/keresztezett_tranzakciok.png  used on input line 
+123.
+(pdftex.def)             Requested size: 426.79134pt x 226.25342pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -340,30 +356,106 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5] (./Kommunikációelmélet.aux) ) 
+[5 <./svgs/parhuzamos_tranzakciok.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+<svgs/fel_keresztezodo_tranzakciok.png, id=35, 335.75438pt x 353.82187pt>
+File: svgs/fel_keresztezodo_tranzakciok.png Graphic file (type png)
+<use svgs/fel_keresztezodo_tranzakciok.png>
+Package pdftex.def Info: svgs/fel_keresztezodo_tranzakciok.png  used on input l
+ine 132.
+(pdftex.def)             Requested size: 199.16928pt x 209.88686pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6 <./svgs/keresztezett_tranzakciok.png> <./svgs/fel_keresztezodo_tranzakciok.p
+ng>]
+<svgs/rejtett_tranzakciok.png, id=41, 803.25093pt x 351.56343pt>
+File: svgs/rejtett_tranzakciok.png Graphic file (type png)
+<use svgs/rejtett_tranzakciok.png>
+Package pdftex.def Info: svgs/rejtett_tranzakciok.png  used on input line 153.
+(pdftex.def)             Requested size: 426.79134pt x 186.79979pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7 <./svgs/rejtett_tranzakciok.png>]
+<svgs/kereszt_tehenesz_tranzakcio.png, id=47, 312.41719pt x 350.81062pt>
+File: svgs/kereszt_tehenesz_tranzakcio.png Graphic file (type png)
+<use svgs/kereszt_tehenesz_tranzakcio.png>
+Package pdftex.def Info: svgs/kereszt_tehenesz_tranzakcio.png  used on input li
+ne 163.
+(pdftex.def)             Requested size: 170.71652pt x 191.69919pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+<svgs/tranzakciok.png, id=48, 530.73282pt x 180.675pt>
+File: svgs/tranzakciok.png Graphic file (type png)
+<use svgs/tranzakciok.png>
+Package pdftex.def Info: svgs/tranzakciok.png  used on input line 171.
+(pdftex.def)             Requested size: 369.88582pt x 125.92024pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8 <./svgs/kereszt_tehenesz_tranzakcio.png> <./svgs/tranzakciok.png>]
+<svgs/ship.png, id=54, 450.9648pt x 530.4618pt>
+File: svgs/ship.png Graphic file (type png)
+<use svgs/ship.png>
+Package pdftex.def Info: svgs/ship.png  used on input line 186.
+(pdftex.def)             Requested size: 312.9803pt x 368.17209pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9 <./svgs/ship.png>] (./Kommunikációelmélet.aux) ) 
 Here is how much of TeX's memory you used:
- 6305 strings out of 479304
- 94725 string characters out of 5869779
+ 6351 strings out of 479304
+ 96043 string characters out of 5869779
  420027 words of memory out of 5000000
- 23437 multiletter control sequences out of 15000+600000
+ 23474 multiletter control sequences out of 15000+600000
  415258 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,74p,955b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/
-cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></us
-r/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/
-type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-supe
-r/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr
-/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/t
-ype1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super
-/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/
-share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb></usr/share/texmf/fonts/ty
-pe1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/
-sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Kommunikációelmélet.pdf (5 pages, 201440 bytes).
+ 69i,11n,74p,1020b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/e
+nc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super
+/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+frm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+ti1200.pfb>
+Output written on Kommunikációelmélet.pdf (9 pages, 1684149 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 102 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
